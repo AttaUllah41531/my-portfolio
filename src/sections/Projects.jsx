@@ -5,7 +5,7 @@ const projects = [
     title: "Expenses Tracker App",
     description:
       "A simple and user-friendly application that helps users track their daily expenses by adding, viewing, and deleting expense entries. It automatically calculates the total spending and stores data locally so expenses persist even after refreshing the page.",
-    image: "/projects/project1.png",
+    image: "./projects/project1.png",
     tags: ["React", "Javascript", "Tailwindcss"],
     link: "https://expenses-tracker-app-seven.vercel.app/",
     github: "https://github.com/AttaUllah41531/Expenses-Tracker-App",
